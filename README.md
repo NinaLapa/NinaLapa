@@ -1,4 +1,4 @@
-- Hi, I’m Nina!
+- Hi, I’m Nina! :octocat:
 - I'm a Tolkien apreciator and  I'm currently learning Software/System Development
 - Feel free to help me then I'll feel free to help you!
 
