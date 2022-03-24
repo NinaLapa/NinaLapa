@@ -11,7 +11,9 @@
   <a href="https://www.linkedin.com/in/maria-nina-nascimento-lapa-23825521a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://steamcommunity.com/id/mnnlx/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 </br>
-  :octocat: Software/System Development.
+  :octocat: Hello there!
+  </br>
+  I'm currently studying Analysis and Development of Systems. I love cats and playing games in my sparetime.
 </div>
   
   
