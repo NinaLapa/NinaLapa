@@ -1,9 +1,4 @@
 
-<div align="center">
-  <a href="https://github.com/NinaLapa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NinaLapa&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  </div>
-<div style="display: inline_block"><br>
   
   <img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/2c33f4e6e264cad6fe5b2695cb30472d/66017b3acf2b1d6f-2e/s500x750/f0f3b8c640a9d004d460266a021f4d3a61f0e4d9.gifv">
 </div>
